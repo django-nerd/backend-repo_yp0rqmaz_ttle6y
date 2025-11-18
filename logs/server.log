@@ -1,0 +1,31 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:56912 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56916 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56932 - "GET /api/vacancies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56938 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56912 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56954 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56916 - "GET /api/vacancies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56932 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56968 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:56912 - "GET /api/vacancies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56916 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56932 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56954 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56938 - "GET /api/vacancies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56912 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56916 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56932 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41902 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41912 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41928 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41932 - "GET /api/vacancies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41944 - "GET /api/departments HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41902 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41912 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41928 - "GET /api/vacancies HTTP/1.1" 200 OK
